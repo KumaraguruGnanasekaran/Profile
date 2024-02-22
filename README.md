@@ -37,20 +37,3 @@ I am an IT Engineer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 
 </p>
 
-
----
-
-### ⚡ Github Trophies :
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=sprhackz&theme=onedark)](https://github.com/sprhackz/github-profile-trophy)
-
----
-
-### 🔥 &nbsp; My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com?user=sprhackz&theme=transparent&hide_border=true&border_radius=14.5&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
----
-### ⚓ &nbsp; My Achievements :
-[![An image of @sprhackz's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sprhackz)](https://holopin.io/@sprhackz)
-
----
