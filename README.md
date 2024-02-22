@@ -13,11 +13,11 @@
 I am an IT Engineer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
 - 🔭 Third-year Bachelor of Technology student in Information Technology at DMI College of Engineering, Chennai.
-- ⚡ Proficient in full stack web development, possessing skills in both front-end and back-end technologies.
+- ⚡ Enthusiastic Cyber Security Learner And Python Coder.
 - 🌱 Strong problem-solving aptitude, capable of making well-informed decisions to address complex challenges.
 - 🔥  Demonstrated programming expertise, translating innovative ideas into functional, user-centric applications.
 - ✈️ Enthusiastic about technological advancements, driven by a passion for contributing to the IT landscape's evolution.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/selvin-paulraj-k-472b31267)
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://www.linkedin.com/in/kumaraguru-gnanasekaran-293991266/)
 
 ---
 
